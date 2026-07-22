@@ -44,7 +44,7 @@ I care about clean, maintainable code and systems that scale.
 - Developed backend services for an enterprise CRM platform using Node.js, PHP CodeIgniter, and MySQL.
 - Built RESTful APIs with authentication, validation, and role-based access control; delivered the system to production.
 
-## Featured Project
+## Projects
 
 ### 🏥 Briota Clinic — Healthcare Management System
 *Dec 2023 – Dec 2025*
@@ -52,6 +52,24 @@ I care about clean, maintainable code and systems that scale.
 A multi-platform healthcare system covering doctor, nurse, patient, and admin workflows — appointment scheduling with reminders, electronic patient records, prescription management, and real-time communication.
 
 **Stack:** Node.js · React · MySQL
+
+### 💳 [Payment Processing API](https://github.com/uttamchandak-dev/payment-processing-api)
+
+A REST API simulating a payment gateway: JWT auth, per-user wallets, a transaction lifecycle (pending → completed/failed), and a provider webhook endpoint that automatically refunds on failure.
+
+**Stack:** Node.js · Express · MySQL · Docker
+
+### 📦 [Order & Inventory Microservices](https://github.com/uttamchandak-dev/order-inventory-microservices)
+
+Two independent services — orders and inventory — each with its own MySQL database, communicating over REST. Implements a saga-style compensating transaction so partially-reserved stock is automatically released if an order can't be fully fulfilled.
+
+**Stack:** Node.js · Express · MySQL · Docker Compose
+
+### 🗂️ [CRM REST API](https://github.com/uttamchandak-dev/crm-rest-api)
+
+A CodeIgniter 4 REST API for a CRM with token-based authentication and role-based access control — agents only see their own customers, while admins have full visibility. Includes customer records, notes, and input validation.
+
+**Stack:** PHP · CodeIgniter 4 · MySQL · Docker
 
 ## Education
 
