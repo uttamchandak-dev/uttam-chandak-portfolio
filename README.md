@@ -4,7 +4,7 @@ Backend Software Engineer specializing in Node.js, PHP (CodeIgniter), and MySQL 
 
 📍 Nagpur, Maharashtra, India
 📧 uttamchandak5@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/uttamchandak) · [GitHub](https://github.com/chandak8)
+🔗 [LinkedIn](https://linkedin.com/in/uttamchandak) · [GitHub](https://github.com/uttamchandak-dev)
 
 ---
 
